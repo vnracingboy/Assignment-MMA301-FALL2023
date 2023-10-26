@@ -1,0 +1,80 @@
+[
+  {
+    "category": "Địa lan",
+    "data": [
+      {
+        "name": "Lan lá Gấm (Ludisia dicolor)",
+        "des": "Là loài có cây và thân rễ bò dài, sau đó vươn lên  mặt đất. là có hình bầu dục, phiến lá màu nhung đen, nổi rõ các gân mảnh dọc theo lá đỏ. Hoa nở có màu trắng và hoa cánh hoa thưa.",
+        "linkImg": "https://lahien.com/files/2021/02/Lan-Gam-1.jpg",
+        "category": "Địa lan",
+        "pId": "1"
+      },
+      {
+        "name": "Lan hạc đính nâu (Phaius takervilleae)",
+        "des": "Cây có củ giả lớn, thân cao 50-60cm, lá lớn. Cụm hoa thẳng, mọc từ nách lá gốc củ giả, cao tới 70cm. hoa nhiều, rất lớn, màu trắng ở mặt ngoài, nâu ở mặt trong. Cánh môi màu đỏ có vạch vàng. Cây mọc rải rác ở hầu hết các vùng trên các sình lầy ở độ cao thấp và trung bình.",
+        "linkImg": "https://vuonlan.net/wp-content/uploads/2020/01/cach-cham-soc-lan-hac-dinh-ra-hoa-dung-tet-1.jpg",
+        "category": "Địa lan",
+        "pId": "2"
+      },
+      {
+        "name": "Lan Hài hồng (Paphipedium Delenatii)",
+        "des": "Cây có các hình lá bầu dục dẹp màu xanh với vân đậm nhạt, ở trên và dưới có nhiều chấm nâu đỏ đôi khi dày đặc thành một màu hung đỏ. Cụm hoa mang 1 – 2 hoa, thường nở vào mùa đông  và có độ bền từ 20 – 40 ngày có hương thơm. Cây ưa ẩm và thoáng, ánh sáng tán xạ che 10 – 40%, nhiệt độ từ 13 – 35 độ C.",
+        "linkImg": "https://vuonphonglan.vn/sites/default/files/articles/lan-hai-hong%20%281%29.jpg",
+        "category": "Địa lan",
+        "pId": "3"
+      }
+    ]
+  },
+  {
+    "category": "Phong lan",
+    "data": [
+      {
+        "name": "Lan Hoàng Thảo",
+        "des": "Nhắc đến hoa phong lan thì không thể bỏ qua loại Lan Hoàng Thảo, đây là giống lan rất được ưa chuộng với hơn 1.200 loài phân bổ khắp Đông Nam Á và nhiều nước trên thế giới. Các giống Hoàng Thảo Lan được ưa chuộng tại Việt Nam như Hoàng Thảo Kèn, Hoàng Thảo Vôi, Giả hạc trắng, Phi điệp, Kiều hồng (Den. amabile) và Kiều tím (Den. amabile), Hạc vỹ (Dendrobium aphyllum)...",
+        "linkImg": "https://cdn.tgdd.vn/Files/2021/08/02/1372475/dac-diem-cach-trong-va-cham-soc-hoa-chi-lan-hoang-thao-202206021551393388.jpg",
+        "category": "Phong lan",
+        "pId": "4"
+      },
+      {
+        "name": "Lan Hồ Điệp",
+        "des": "Đây là chi có hơn 25 nghìn loài và hơn 10 nghìn giống hoa khác nhau khiến chúng trở thành loài thuộc họ hoa lớn nhất thế giới. Phong Lan Hồ Điệp thuộc cây thân thảo lâu năm phát triển trong các khu rừng nhiệt đới, sinh trưởng chậm và đòi hỏi nhiều công chăm sóc.",
+        "linkImg": "https://blog.flowercorner.vn/wp-content/uploads/2020/04/lan-ho-diep-ra-hoa-may-lan-trong-nam-va-dau-hieu-ra-hoa.jpg",
+        "category": "Phong lan",
+        "pId": "5"
+      },
+      {
+        "name": "Lan Vũ Nữ",
+        "des": "Đây là loại phong lan có khoảng khoảng 600 giống khác nhau. Khi hoa nở, có màu vàng, đỏ, trắng và hồng. Các cánh hoa thường bị xù ở mép, môi cũng vậy . Môi rất lớn, chặn một phần các cánh hoa và lá đài nhỏ giống như vũ nữ đang hăng say nhảy múa.",
+        "linkImg": "https://sfarm.vn/wp-content/uploads/2021/11/cach-trong-va-cham-soc-lan-vu-nu-day-du-nhat.jpg",
+        "category": "Phong lan",
+        "pId": "6"
+      }
+    ]
+  },
+  {
+    "category": "Bán địa lan",
+    "data": [
+      {
+        "name": "Bán địa lan Phaius",
+        "des": "Bán địa lan Phaius là một loài bán địa lan phổ biến ở Việt Nam. Chúng thường có cánh giữa rộng và hoa lớn màu trắng, hồng hoặc tím.",
+        "linkImg": "https://trongphonglan.com/wp-content/uploads/2019/03/hoa-dia-lan-hac-dinh-nau-03.jpg",
+        "category": "Bán địa lan",
+        "pId": "7"
+      },
+      {
+        "name": "Lan bầu rượu",
+        "des": "Calanthe là một chi bán địa lan phong phú tại Việt Nam, và chúng có hoa màu sắc đa dạng từ trắng, vàng, hồng đến tím. Một số loài cũng có mùi hương thơm.",
+        "linkImg": "https://namix.vn/wp-content/uploads/2020/03/lan-bau-ruou-01.jpg.webp",
+        "category": "Bán địa lan",
+        "pId": "8"
+      },
+      {
+        "name": "Bán địa lan Cymbidium",
+        "des": "Bán địa lan Cymbidium có hoa lớn và rất phổ biến ở Việt Nam. Chúng thường có màu sắc đa dạng và có thể được tìm thấy trong nhiều vùng khí hậu khác nhau.",
+        "linkImg": "https://phonglananhduc.com/wp-content/uploads/2017/04/Cymbidium-3.jpg",
+        "category": "Bán địa lan",
+        "pId": "9"
+      }
+    ]
+  }
+]
